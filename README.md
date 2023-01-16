@@ -5,7 +5,7 @@ This website will show you a gif & some video links of exercises based on the se
 ## How it looks
 
 
-![Finished App](https://github.com/Riyazmansuri/ScreenShots/blob/my_portfolio.gif)
+![Finished App](https://github.com/Riyazmansuri/All_About_Workout/blob/master/workout.gif)
 
 
 ps:- it's a low quality gif
